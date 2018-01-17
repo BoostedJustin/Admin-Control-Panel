@@ -1,4 +1,4 @@
-# Admin-Control-Panel | something for everyone. for teamspeak & minecraft.
+# Admin-Control-Panel | something for everyone.
 
 This project called Admin Control Panel was created by BoostedJustin. 
 It spared a lot of time for me but it was worth it.
